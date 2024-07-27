@@ -26,7 +26,7 @@ Google Cloud API key for Generative AI
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/gemini-qa-project.git
+git clone (https://github.com/rishabh-jain26/chatbot_LLM.git)
 cd gemini-qa-project
 
 
